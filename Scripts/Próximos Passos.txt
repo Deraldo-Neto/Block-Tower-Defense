@@ -1,0 +1,20 @@
+1. Ajeitar a camera. Quero o mapa do tamanho da camera.
+2. fazer os monstros andarem apenas no Tile amarelo/Ser possivel colocar as torres apenas nos Tile verdes.
+3. Poder montar as torres. Colocar diferentes bases em diferentes torres.
+3.1. Primeiramente, so sera possivel escolher 1 tipo de torre para cada base. (Por exemplo: 1 torre do tipo Fire com a base1, 1 torre do tipo Storm com a base2, 1 torre do tipo Poison com a base3, 1 torre do tipo Frost com a base4)
+3.1.1. Colocar essas torres no canto direito, e, assim, poder instala-las no mapa em si.(teste. Servira para teste)
+3.2. Será possível escolher, por exemplo 1 unico tipo de torre (Por exemplo: as 4 torres do tipo Fire, 1 com a base1, 1 com a base 2, 2 com a base3)
+3.2.1. Colocar essas torres no canto direito. (teste. Servira para teste)
+4. Adicionar um menu extra antes do jogo começar, para poder escolher as torres (definitivo)
+5. A cada wave a pessoa vai poder tirar e colocar novas torres (Talvez deixe esse passo para o final. Creio que vai ser o mais complexo, pq vai ter que vender as torres antigas,tirar elas no menu, adicionar a nova)
+6. Opção de save pode ser util.
+7. Optimização para Android. (jogo "pronto")
+PASSOS PARA DEPOIS DE PRONTO
+8. Não quero que os aviões saem de "portais", não faz muito sentido pra mim.
+9. Arrumar os sprites dos aviões, ta muito zoado a barra de vida ficar girando, tenho que arrumar isso.
+10. Criar um programa que gere um mapa de forma automatica, de forma aleatoria. Seria extremamente interessante se eu conseguisse.
+11. Adicionar novas torres.
+12. Adicionar novos inimigos. 
+13. Dar uma arrumada nos sprites, nos mapas, nos menus, etc. Tudo muito feio!
+14. Adicionar "Fases"? ao inves de waves? seria interessante? cada fase com 3 estrelas? e com x estrelas vc libera diferentes torres e bases? acho que seria interessante.
+15. Equilibrio geral do jogo.
